@@ -1,4 +1,6 @@
  *pratice git
 GIT: absolute-beginners
-This for Beginners
+This for Beginners - changes in new-branch branch
 it is very important command
+Testing merge command
+Testing rebase command
